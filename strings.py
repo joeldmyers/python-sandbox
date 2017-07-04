@@ -1,6 +1,6 @@
 # string review
 
-mystring = 'testing'
+mystring = 'testing hello there'
 print(mystring + ' ' + mystring)
 
 # index - get everything there and after
@@ -21,3 +21,5 @@ print(mystring.upper())
 #lower case
 
 print(mystring.lower())
+
+print(mystring.split())
