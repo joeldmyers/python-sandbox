@@ -14,3 +14,10 @@ print(mystring[1:3])
 
 # skipping every other
 print(mystring[::2])
+
+#upper case
+print(mystring.upper())
+
+#lower case
+
+print(mystring.lower())
