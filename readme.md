@@ -1,1 +1,1 @@
-# Python sandbox to review some functionality
+# Python/Django sandbox to review some functionality
