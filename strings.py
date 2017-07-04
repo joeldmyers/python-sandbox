@@ -8,3 +8,9 @@ print(mystring[2:])
 
 # index - get everything up to but not including index 3
 print(mystring[:3])
+
+# index - get everything up to but not including index 3
+print(mystring[1:3])
+
+# skipping every other
+print(mystring[::2])
